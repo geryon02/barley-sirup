@@ -1,1 +1,1 @@
-# barley-sirup
+ this is my first multiple-LED project. whie it's very rudimentaRry, I like it because I did it without help the ruslt expected is a little ballet of LEDs. 
